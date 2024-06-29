@@ -1,21 +1,22 @@
-## Hi there 👋
 
-# Cloudcrafts
+
+# Cloudcraftswithsola
+
 My Portfolio
 
 # 👋 Hello, I'm Owolabi Olusola
 
-- :telescope: I Currently work as a Senior Project Manager in a Fintech Company and contribute to the development of AI and Cloud solutions as a Certified Cloud Practitioner.
+- :telescope: I Currently work as a Senior Project Manager in a Fintech Company and contribute to developing AI and Cloud solutions as a Certified Cloud Practitioner.
   
 - :seedling: Exploring Cloud DevOps Engineering.
 
-- :zap: In my free time, I research on Latest Technology tools, YCombinator Startups and Venture Capitals
+- :zap: In my free time, I research on Latest Technological tools, YCombinator Startups and Venture Capitals
 
 - :mailbox: How to reach me: - [Email](mailto:owolabithebest@gmail.com)
 
 ## 🚀 About Me
 
-I am an experienced Project Manager with over 4 years of expertise in IT Project Management, specializing in software development and delivery.
+I am an experienced Project Manager with over 4 years of expertise in IT Project Management, Crypto projects and Wallet solutions; specializing in software development and delivery.
 
 ## 🌐 Portfolio
 
@@ -65,7 +66,6 @@ During the course of Managing various teams and Projects, I've managed Software 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -73,7 +73,6 @@ During the course of Managing various teams and Projects, I've managed Software 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
@@ -83,7 +82,7 @@ During the course of Managing various teams and Projects, I've managed Software 
 
 ## 🚀 My Projects
 
-_During my practice as an IT Project Manager, I've led Teams of 4-8 at the Software development and Management level, I currently work as a Senior Project Manager. I Work with a Fintech Company where we proffer solutions to generational banks in Nigeria._
+_During my practice as an IT Project Manager, I've led Team of 8-10 resources at the Software development and Management level, I currently work as a Senior Project Manager in a Financial Technology Company where we proffer solutions to generational banks in across Africa._
 
 ### Project 1: BlissHall Streaming App
 
