@@ -6,7 +6,7 @@ My Portfolio
 
 # 👋 Hello, I'm Owolabi Olusola
 
-- :telescope: I Currently work as a Senior Project Manager in a Fintech Company and contribute to developing AI and Cloud solutions as a Certified Cloud Practitioner.
+- :telescope: I Currently work as a Senior Project Manager in a Fintech Company and contribute to developing Web3 and AI projects. i joined the @Risein and Chainlink Community
   
 - :seedling: Exploring Cloud DevOps Engineering.
 
