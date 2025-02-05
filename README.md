@@ -4,7 +4,7 @@
 
 My Portfolio
 
-# 👋 Hello, I'm Owolabi Olusola
+# 👋 Hello, I'm Web3 Decent
 
 - :telescope: I Currently work as a Senior Project Manager in a Fintech Company and contribute to developing Web3 and AI projects. i joined the @Risein and Chainlink Community
   
@@ -20,7 +20,7 @@ I am an experienced Project Manager with over 4 years of expertise in IT Project
 
 ## 🌐 Portfolio
 
-- [LinkedIn](https://www.linkedin.com/in/owolabi-olusola)
+- [LinkedIn](https://www.linkedin.com/in/web3decent)
 - [Portfolio Website](https://owolabi.vzy.io/)
 - 
 
