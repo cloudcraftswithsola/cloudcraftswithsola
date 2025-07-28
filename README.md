@@ -4,19 +4,19 @@
 
 My Portfolio
 
-# 👋 Hello, I'm Web3 Decent
+# 👋 Hello, I'm Olusola Owolabi
 
-- :telescope: I Currently work as a Senior Project Manager in a Fintech Company and contribute to developing Web3 and AI projects. i joined the @Risein and Chainlink Community
+- :telescope: I currently work as a Senior Project Manager in a Fintech Company and contribute to developing Web3 and AI projects. I joined the @Risein and Chainlink Community
   
 - :seedling: Exploring Cloud DevOps Engineering.
 
-- :zap: In my free time, I research on Latest Technological tools, YCombinator Startups and Venture Capitals
+- :zap: In my free time, I research on the Latest Technological tools, YCombinator Startups and Venture capital
 
 - :mailbox: How to reach me: - [Email](mailto:owolabithebest@gmail.com)
 
 ## 🚀 About Me
 
-I am an experienced Project Manager with over 4 years of expertise in IT Project Management, Crypto projects and Wallet solutions; specializing in software development and delivery.
+I am an experienced Project Manager with over 5 years of expertise in IT Project Management, Crypto projects and Wallet solutions; specialising in software development and delivery. I help Businesses optimise workflow Automation using Zapier, Make.com and n8n.
 
 ## 🌐 Portfolio
 
@@ -25,28 +25,19 @@ I am an experienced Project Manager with over 4 years of expertise in IT Project
 - 
 
 ## 📫 Certifications ..!
-
-  <img src="https://github.com/cloudcraftswithsola/Cloudcrafts/assets/89064868/beeacab3-28c3-4ac3-aa15-39fbef73b7f1" alt="Your Image" width="300" height="300">
-</div>
-
-  <img src="https://github.com/cloudcraftswithsola/Cloudcrafts/assets/89064868/b77b9569-f7ed-4db4-8d6b-4732535540f3" alt="Your Image" width="300" height="300">
-</div>
-  <img src="https://github.com/cloudcraftswithsola/Cloudcrafts/assets/89064868/b9469db7-5616-459c-be31-c77b456de451" alt="Your Image" width="300" height="300">
-</div>
-
-<img src="https://github.com/cloudcraftswithsola/Cloudcrafts/assets/89064868/51276bcc-c1fc-46f9-bbff-86cc4c688a16" alt="Your Image" width="300" height="300">
-</div>
+- Asana
+- Project Management Institute
+- Zapier
+- Make.com
 
 ## Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/owolabi-olusola">
+  <a href="https://www.linkedin.com/in/web3decent">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/cloudcrafts">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.twitter.com/cloudcrafts">
+  <a href="https://www.twitter.com/blaqautomation">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -58,11 +49,11 @@ I am an experienced Project Manager with over 4 years of expertise in IT Project
 - Software Development Life Cycle (SDLC)
 - Team Collaboration
 - Agile Methodologies
-- Cloud Architecture
+- Workflow Automation
 
 ### :hammer_and_wrench: Project Managed Languages and Tools :
 
-During the course of Managing various teams and Projects, I've managed Software development in the following Language and Tools
+During managing various teams and Projects, I've managed Software development in the following languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -82,14 +73,14 @@ During the course of Managing various teams and Projects, I've managed Software 
 
 ## 🚀 My Projects
 
-_During my practice as an IT Project Manager, I've led Team of 8-10 resources at the Software development and Management level, I currently work as a Senior Project Manager in a Financial Technology Company where we proffer solutions to generational banks in across Africa._
+_During my practice as an IT Project Manager, I've led a Team of 8-10 resources at the Software development and Management level. I currently work as a Senior Project Manager in a Financial Technology Company where we proffer solutions to generational banks across Africa._
 
 ### Project 1: BlissHall Streaming App
 
 - [Repo link](https://github.com/Dabest-Digital-Solutions/blisshall-frontend)
 
 _Description of the project._
-BlissHall is a Streamin
+BlissHall is a streaming
 
 ### Project 2: RDS Frontend Development
 
