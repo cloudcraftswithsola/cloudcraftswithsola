@@ -6,13 +6,14 @@ My Portfolio
 
 # 👋 Hello, I'm Olusola Owolabi
 
-- :telescope: I currently work as a Senior Project Manager in a Fintech Company and contribute to developing Web3 and AI projects. I joined the @Risein and Chainlink Community
-  
-- :seedling: Exploring Cloud DevOps Engineering.
+- :telescope: I currently work as a **Senior Project Manager** in a Fintech Company and contribute to developing Web3 and AI projects.
+- 👉 If you’re a founder, team lead, or startup struggling with scattered tools, let’s chat.
 
-- :zap: In my free time, I research on the Latest Technological tools, YCombinator Startups and Venture capital
+:seedling:💼 I’m currently open to remote project management roles and consulting opportunities — helping teams organise, simplify, and deliver.
 
-- :mailbox: How to reach me: - [Email](mailto:owolabithebest@gmail.com)
+- :zap: In my free time, I research the Latest Technological tools, YCombinator Startups and Venture capital Business.
+
+- :mailbox: How to reach me: - [Email](mailto:owolabi66@gmail.com)
 
 ## 🚀 About Me
 
